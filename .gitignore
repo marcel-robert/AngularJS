@@ -1,5 +1,6 @@
 *.[oa]
 *~
+*.save
 conFusion/dist/
 conFusion/bower_components
 conFusion/node_modules
